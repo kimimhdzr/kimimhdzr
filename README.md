@@ -21,8 +21,8 @@ I'm **Hakimi Mahadzir**, a passionate software developer from **Malaysia** 🇲�
 
 ### 📊 GitHub Stats
 
-![Kimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
+![Kimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimimhdzr&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimimhdzr&layout=compact&theme=radical)
 
 ---
 
