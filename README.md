@@ -3,7 +3,7 @@
 I'm **Hakimi Mahadzir**, a passionate software developer from **Malaysia** 🇲🇾
 
 - 🔭 I’m currently working on a **Waqf donation platform**
-- 🌱 I’m currently **AWS** and **DevOps**
+- 🌱 I’m currently learning **AWS** and **DevOps**
 - 💬 Ask me about **Android** or **full-stack development**
 - ⚡ Fun fact: I love **chilling with my spotify**
 
